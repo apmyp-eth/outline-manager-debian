@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Outline Manager
+Exec=/home/user/Apps/Outline-Manager.AppImage
+Terminal=false
+Type=Application
+Icon=outline-manager
+Comment=Outline Manager
+Categories=Network;
