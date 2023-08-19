@@ -1,5 +1,13 @@
 # Simple desktop entry installer for Outline Manager
 
+## Usage
+
+```bash
+git clone https://github.com/apmyp-eth/outline-manager-debian.git
+cd outline-manager-debian/
+./install.sh 
+```
+
 ## What it does
 
 * downloads Outline Manager from official site (never trust, check install.sh)
